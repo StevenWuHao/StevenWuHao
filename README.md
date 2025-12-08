@@ -6,3 +6,6 @@ My personal indie project list
 - [ChartFromText](https://chartfromtext.com) - Turn your text into beautiful charts in seconds.
 - [BratGenerator](https://bratgenerator.blog)
 - [BlankImage](https://blankimage.org)
+- [Lovemoney Game](https://lovemoneygame.blog/)
+- [The Freak Circus](https://thefreakcircus.dev/)
+- [Circle Crop Image](http://circlecropimage.dev/)
