@@ -9,3 +9,7 @@ My personal indie project list
 - [Lovemoney Game](https://lovemoneygame.blog/)
 - [The Freak Circus](https://thefreakcircus.dev/)
 - [Circle Crop Image](http://circlecropimage.dev/)
+- [The Forge Calculator](https://theforgecalculator.pro)
+- [Anime Fighting Simulator Endless Calculator](https://animefightingsimulatorendlesscalculator.com)
+- [Bee Swarm Simulator Calculator](https://beeswarmsimulatorcalculator.net)
+- [Devil Hunter Calculator](http://devilhuntercalculator.net)
