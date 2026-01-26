@@ -13,3 +13,4 @@ My personal indie project list
 - [Anime Fighting Simulator Endless Calculator](https://animefightingsimulatorendlesscalculator.com)
 - [Bee Swarm Simulator Calculator](https://beeswarmsimulatorcalculator.net)
 - [Devil Hunter Calculator](http://devilhuntercalculator.net)
+- [Nano Banana](https://nano-banana.love)
