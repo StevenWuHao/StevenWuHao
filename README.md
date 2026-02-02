@@ -14,3 +14,4 @@ My personal indie project list
 - [Bee Swarm Simulator Calculator](https://beeswarmsimulatorcalculator.net)
 - [Devil Hunter Calculator](http://devilhuntercalculator.net)
 - [Nano Banana](https://nano-banana.love)
+- [IndieAI Directory](https://indieai.directory/)
